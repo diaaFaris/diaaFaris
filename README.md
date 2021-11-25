@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **Diaa Faris**.
+- 👀 I’m interested in **Web development**.
+- 🌱 I have experience in: **HTML 5 & Css 3**
+- 📫 You can reach me via email: **diaa.faris.contact@gmail.com**
